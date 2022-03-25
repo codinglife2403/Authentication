@@ -1,0 +1,10 @@
+﻿{
+    "database": {
+        "host": "localhost",
+        "port": 3306,
+        "user": "root",
+        "password": "2403",
+        "database": "Authentication_1"
+    },
+    "secret": "THIS IS SUPER SECRET"
+}
